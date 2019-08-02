@@ -1,0 +1,15 @@
+{
+  "name": "word-lookup-with-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Efstathios Oikonomou <eusoikonomou@gmail.com>",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^2.0.0-alpha.13"
+  }
+}
